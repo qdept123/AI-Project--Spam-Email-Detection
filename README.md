@@ -68,6 +68,8 @@ The repository includes a fully runnable Jupyter Notebook on Google Colab/Kaggle
 
 ### Option 2: Links
 1. Link for Machine Learning Algorithms: 
+Google Collab: https://colab.research.google.com/drive/1Nbv2NjDSYvdXLCMGQUycg0z_rOH5ey4V?usp=sharing
+Kaggle: https://www.kaggle.com/code/rajatbikramkarki/email-spam-detection-machine-learning-algorithms
 
 ## 📋 Required Python Libraries
 
