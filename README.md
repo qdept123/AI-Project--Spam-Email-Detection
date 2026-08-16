@@ -98,4 +98,4 @@ The repository includes a fully runnable Jupyter Notebook on Google Colab/Kaggle
 2. Scikit-Learn Documentation: https://scikit-learn.org/
 3. TensorFlow & Keras Guide: https://www.tensorflow.org/ & https://keras.io/
 4. IEEE Guidelines for Conference and Academic Papers.
-# AI-Project--Spam-Email-Detection
+
